@@ -21,8 +21,8 @@ The task is to use recurrent neural networks to build a transliteration system.
 
 ## Submission
 
-- **WandB Project:** [[Your WandB Project Link Here]](https://wandb.ai/ma23c047-indian-institute-of-technology-madras/DA6401_A3)
-- **WandB Report:** [[Your WandB Report Link Here]](https://wandb.ai/ma23c047-indian-institute-of-technology-madras/DA6401_A3/reports/DA6401-Assignment-3--VmlldzoxMjU3MTMyOQ)
+- **WandB Project:** (https://wandb.ai/ma23c047-indian-institute-of-technology-madras/DA6401_A3)
+- **WandB Report:** (https://wandb.ai/ma23c047-indian-institute-of-technology-madras/DA6401_A3/reports/DA6401-Assignment-3--VmlldzoxMjU3MTMyOQ)
 
 ## Dataset
 
