@@ -61,14 +61,14 @@ def test(lang, batch_size, save_predictions=True):
     if save_predictions:
         # Assuming your tensor is called 'tensor'
         eng_words = [tensor_row_to_string(dataset.src_charset.index2char, row) for row in x]
-        tam_words = [tensor_row_to_string(dataset.trg_charset.index2char, row) for row in y]
-        tam1_words = [tensor_row_to_string(dataset.trg_charset.index2char, row) for row in y_pred]
+        hi_words = [tensor_row_to_string(dataset.trg_charset.index2char, row) for row in y]
+        hi1_words = [tensor_row_to_string(dataset.trg_charset.index2char, row) for row in y_pred]
 
         # Create a pandas DataFrame
         df = pd.DataFrame({
             'Eng': eng_words,
-            'Tam': tam_words,
-            'Tam1': tam1_words
+            'hi': tam_words,
+            'hi1': tam1_words
         })
 
         # Save the DataFrame to a CSV file
