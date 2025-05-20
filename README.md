@@ -13,7 +13,7 @@ This repository contains all code files for Assignment 3 of the DA6401 (Introduc
 - [Implementation Details](#implementation-details)
 - [Tools and Libraries Used](#tools-and-libraries-used)
   - [Installation](#installation)
-- [Usage](#usage)
+
 
 ## Task
 
